@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.0.4</version>
+    <title>$title$</title>
+    <authors>Miguel Pazo (http://miguelpazo.com)</authors>
+    <owners>RENIEC</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.txt</licenseUrl>
+    <projectUrl>https://idp-pre.reniec.gob.pe/site/</projectUrl>
+    <iconUrl>https://idp-pre.reniec.gob.pe/site/assets/img/icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>reniec,idaas,peru,reniec idaas</tags>
+  </metadata>
+</package>
