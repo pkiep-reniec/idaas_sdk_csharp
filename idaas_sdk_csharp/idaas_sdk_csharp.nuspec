@@ -2,13 +2,13 @@
 <package >
   <metadata>
     <id>$id$</id>
-    <version>1.0.4</version>
+    <version>1.0.6</version>
     <title>$title$</title>
     <authors>Miguel Pazo (http://miguelpazo.com)</authors>
     <owners>RENIEC</owners>
     <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.txt</licenseUrl>
-    <projectUrl>https://idp-pre.reniec.gob.pe/site/</projectUrl>
-    <iconUrl>https://idp-pre.reniec.gob.pe/site/assets/img/icon.png</iconUrl>
+    <projectUrl>https://idaas.reniec.gob.pe/site/</projectUrl>
+    <iconUrl>https://idaas.reniec.gob.pe/site/assets/img/icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <releaseNotes></releaseNotes>
