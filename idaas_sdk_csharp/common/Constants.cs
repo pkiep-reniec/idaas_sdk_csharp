@@ -13,6 +13,7 @@ namespace idaas_sdk_csharp.common
         public static String ACR_PKI_DNIE = "pki_dnie";
         public static String ACR_PKI_TOKEN = "pki_token";
         public static String ACR_ONLY_PASSWORD = "only_password";
+        public static String ACR_ONLY_QUESTIONS = "only_questions";
 
         //PROMPT
         public static String PROMPT_NONE = "none";
