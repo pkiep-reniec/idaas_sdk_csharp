@@ -168,5 +168,16 @@ namespace idaas_sdk_csharp
 
             return null;
         }
+
+        public String getLogoutUri(String redirectPostLogout)
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.Append(config.logoutUri + "?");
+            sb.Append(string.Format("{0}={1}", "post_logout_redirect_uri", UrlHelper.Encode(redirectPostLogout)));
+
+            String url = sb.ToString();
+
+            return url;
+        }
     }
 }
