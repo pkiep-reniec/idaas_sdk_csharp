@@ -16,6 +16,8 @@ namespace idaas_sdk_csharp.common
         public static String ACR_ONLY_QUESTIONS = "only_questions";
         public static String PKI_DNIE_MOBILE = "pki_dnie_mobile";
         public static String FINGERPRINT_MOBILE = "fingerprint_mobile";
+        public static String PKI_DNIE_LEGACY = "pki_dnie_legacy";
+        public static String PKI_TOKEN_LEGACY = "pki_token_legacy";
 
         //PROMPT
         public static String PROMPT_NONE = "none";
