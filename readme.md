@@ -1,4 +1,4 @@
-# RENIEC IDaaS SDK for .NET C#
+# ID Perú SDK for .NET C#
 With this client you can connect with our solution of Identity as a Service (IDaaS) that implements OpenID Connect.
 
 Installation with nuget:
